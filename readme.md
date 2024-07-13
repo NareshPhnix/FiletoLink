@@ -101,9 +101,9 @@ or if you're Locally hosting, create a file named `config.env` in the root direc
 An example of `config.env` file:
 
 ```py
-API_ID=28192191
-API_HASH=663164abd732848a90e76e25cb9cf54a
-BOT_TOKEN=7146585357:AAGuiX5DsZPuQrVJWrYRXCLfqrsGdj_fgZU
+API_ID= 28192191
+API_HASH= 663164abd732848a90e76e25cb9cf54a
+BOT_TOKEN= 7146585357:AAGuiX5DsZPuQrVJWrYRXCLfqrsGdj_fgZU
 BIN_CHANNEL=-1002195196378
 PORT=8080
 FQDN=your_server_ip
